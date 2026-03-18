@@ -9,7 +9,7 @@ entries:
     name: graphite-studio
     type: application
     urls:
-    - graphite-studio-0.1.0.tgz
+    - https://shailu-dot.github.io/helm-repo/graphite-studio-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
